@@ -16,3 +16,6 @@ A Machine Learning project that predicts whether a loan applicaton will be appro
 
 ##author 
 Manish
+
+##live demo
+https://loan-approval-prediction-m2jndpokqn7farj6nawwdn.streamlit.app/
